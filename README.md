@@ -30,3 +30,7 @@ k8s-orphan-pvc --all-namespaces --min-age 30d --price-per-gib 0.05 --output tabl
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [k8s-orphaned-pvc-finder](https://github.com/moveeeax/k8s-orphaned-pvc-finder/issues/2).
